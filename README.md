@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Huzi
+# 👋 Hi, I'm Huzaifa
 
 I'm a 5th semester Computer Science student at FAST, focused on building robust, scalable, and secure backend systems. I specialize in developing RESTful APIs, managing complex data relationships, and designing backend architectures that support real-world, full-stack applications.
 
