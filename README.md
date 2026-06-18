@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Huzaifa
+#  Hi, I'm Huzaifa
 
 I'm a 5th semester Computer Science student at FAST, focused on building robust, scalable, and secure backend systems. I specialize in developing RESTful APIs, managing complex data relationships, and designing backend architectures that support real-world, full-stack applications.
 
 ---
 
-## 🛠️ Core Skills
+##  Core Skills
 
 - **Languages**: JavaScript (Node.js), SQL, C++
 - **Backend Development**:
@@ -20,9 +20,9 @@ I'm a 5th semester Computer Science student at FAST, focused on building robust,
 
 ---
 
-## 🔐 Projects (Private Repositories)
+##  Projects (Private Repositories)
 
-### 📓 Notes App – Full-Stack Notes Platform
+###  Notes App – Full-Stack Notes Platform
 
 A backend-driven platform with:
 
@@ -36,21 +36,8 @@ A backend-driven platform with:
 
 ---
 
-### 🧑‍💼 Dynamic Portfolio CMS
 
-A backend-powered, admin-controlled portfolio management system. Frontend is simple, but the backend enables:
-
-- Complete portfolio customization via admin routes
-- Control over content: blogs, services, technologies, tools, team members, and more
-- Complex database relationships (one-to-many & many-to-many with pivot tables)
-- Scalable API structure supporting dynamic frontend rendering
-- Role-based access logic (WIP)
-
-> Built to explore how powerful backends can drive flexible, UI-independent systems like CMS platforms.
-
----
-
-## 📌 Current Focus
+##  Current Focus
 
 - Designing clean, modular backend systems
 - Real-time communication with WebSocket
@@ -59,4 +46,4 @@ A backend-powered, admin-controlled portfolio management system. Frontend is sim
 
 ---
 
-> 📂 Repositories are private while under development — feel free to reach out if you'd like access or more info.
+>  Repositories are private while under development — feel free to reach out if you'd like access or more info.
