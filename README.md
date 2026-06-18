@@ -1,49 +1,42 @@
-#  Hi, I'm Huzaifa
+# Huzaifa Usman
 
-I'm a 5th semester Computer Science student at FAST, focused on building robust, scalable, and secure backend systems. I specialize in developing RESTful APIs, managing complex data relationships, and designing backend architectures that support real-world, full-stack applications.
-
----
-
-##  Core Skills
-
-- **Languages**: JavaScript (Node.js), SQL, C++
-- **Backend Development**:
-  - REST APIs with **Express.js**
-  - **Authentication systems** – OTP, JWT, refresh tokens, blacklisting
-  - **Database design** – Complex entity relationships (one-to-many, many-to-many) using MySQL with migrations and seeders
-  - Modular backend architecture (MVC pattern, service/controller structure)
-  - Data validation with Joi
-  - **Scheduling** with cron jobs
-  - **Real-time features** via WebSocket
-
-- **Tools & Utilities**: Git, Postman, MySQL Workbench, VS Code
+Backend developer focused on building production-grade APIs and distributed systems.
+Currently a CS student at FAST-NUCES Lahore (6th semester complete), actively seeking
+backend and full-stack opportunities.
 
 ---
 
-##  Projects (Private Repositories)
+## Tech Stack
 
-###  Notes App – Full-Stack Notes Platform
-
-A backend-driven platform with:
-
-- Secure authentication (login, refresh token, OTP-based password reset)
-- Public/private notes, likes system, follower/following logic
-- Real-time messaging using WebSocket
-- Clean modular architecture (routes/controllers/services/middleware)
-- Basic UI using Next.js + shadcn/ui to test and understand full-stack behavior
-
-> Built to deeply understand scalable backend architecture and API security.
+**Languages:** TypeScript, JavaScript, SQL, C++  
+**Runtime & Frameworks:** Node.js, Express.js  
+**Databases:** PostgreSQL, MySQL, Redis  
+**Auth & Security:** JWT, refresh token rotation, OTP flows, OWASP Top 10  
+**Real-time:** WebSockets  
+**Tools:** Docker, Git, Postman, GitHub Actions  
 
 ---
 
+## What I Build
 
-##  Current Focus
+I specialize in backend systems — authentication flows, relational database design,
+REST API architecture, and real-time features. I care about security, modularity,
+and writing code that's readable six months later.
 
-- Designing clean, modular backend systems
-- Real-time communication with WebSocket
-- Building scalable APIs that support frontend flexibility
-- Understanding backend-driven application design
+Currently learning: TypeScript migration, containerization with Docker, and AI
+integration with LLM APIs.
 
 ---
 
->  Repositories are private while under development — feel free to reach out if you'd like access or more info.
+## Projects
+
+### Notes API — [Live](https://your-domain.com) · [Repo](https://github.com/huzaifausman59/notes_practice)
+Production-deployed backend for a social notes platform. JWT auth with refresh token
+blacklisting, follower/following system, real-time messaging via WebSockets, and
+paginated feeds. Built on Node.js, Express, MySQL, Sequelize.
+
+---
+
+## Contact
+
+[LinkedIn](www.linkedin.com/in/huzaifa-usman-dev) · usmanhuzaifa149@email.com
